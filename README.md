@@ -1,4 +1,4 @@
-Memory Game
+<h1>Memory Game</h1>
 
 A retro grid-based game in vanilla JavaScript, HTML and CSS
 
